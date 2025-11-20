@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "timestamp": "2025-11-20T13:10:57.141Z",
+  "buildTool": "bun",
+  "bunVersion": "1.3.2",
+  "platform": "linux",
+  "arch": "x64",
+  "nodeVersion": "24.3.0",
+  "configuration": {
+    "target": "browser",
+    "format": "esm",
+    "minify": true,
+    "sourcemap": "external",
+    "splitting": true,
+    "treeshaking": true
+  },
+  "git": {
+    "branch": "main",
+    "commit": "4cc21bb",
+    "commitDate": "2025-11-20 20:05:48 +0700"
+  }
+}

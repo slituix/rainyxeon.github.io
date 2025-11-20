@@ -1,0 +1,31 @@
+{
+  "files": {
+    "total": 18,
+    "byType": {
+      "png": 4,
+      "ttf": 3,
+      "json": 1,
+      "html": 2,
+      "map": 2,
+      "css": 2,
+      "js": 2,
+      "svg": 1,
+      "mp3": 1
+    }
+  },
+  "size": {
+    "total": "1.12 MB",
+    "totalBytes": 1176269,
+    "byType": {
+      "png": "518.70 KB",
+      "ttf": "555.55 KB",
+      "json": "458.00 B",
+      "html": "12.19 KB",
+      "map": "31.30 KB",
+      "css": "5.43 KB",
+      "js": "14.55 KB",
+      "svg": "1.91 KB",
+      "mp3": "8.62 KB"
+    }
+  }
+}
