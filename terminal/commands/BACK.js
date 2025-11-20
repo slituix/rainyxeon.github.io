@@ -4,8 +4,8 @@ const command = {
   usage: null,
 
   run: (e, commandList) => {
-    return window.open('../', '_self')
-  }
-}
+    return window.open("../", "_self");
+  },
+};
 
-export default command
+export default command;

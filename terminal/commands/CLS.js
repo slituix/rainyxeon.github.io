@@ -4,8 +4,8 @@ const command = {
   usage: null,
 
   run: (e, commandList) => {
-    document.getElementById('term_screen').innerHTML = ""
-  }
-}
+    document.getElementById("term_screen").innerHTML = "";
+  },
+};
 
-export default command
+export default command;
